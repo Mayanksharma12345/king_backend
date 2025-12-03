@@ -1,0 +1,8 @@
+node_modules/
+.next/
+venv/
+.env
+.netlify/
+__pycache__/
+.vercel
+.env*.local
